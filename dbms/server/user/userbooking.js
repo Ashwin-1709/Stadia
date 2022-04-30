@@ -9,8 +9,8 @@ app.use(express.urlencoded());
 app.use(express.json());
 
 const razorpay = new Razorpay({
-	key_id: 'rzp_test_ZdRXkONBVZeKRJ',
-	key_secret: 'Gxb2X8hnj3irWyfe3fPkDyYq'
+	key_id: 'XXXXXXXXXX', // ADD API KEY
+	key_secret: 'XXXXXXXXXXXX' // ADD API KEY
 })
 
 function authenticate(req, res, next) {
