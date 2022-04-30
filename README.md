@@ -15,7 +15,7 @@ Frameworks Used -
 3. ExpressJS , NodeJS - Backend
 
 Team Members - 
-1. [Ashwin Naveen Pugalia](https://github.com/Ashwin-1709)
+1. [Ashwin Pugalia](https://github.com/Ashwin-1709)
 2. [Yash Ratnani](https://github.com/yashratnani02)
 3. [Sriram Balasubramanian](https://github.com/SriramB2002)
 4. [Shubh Badjate](https://github.com/ssbadjate02)
