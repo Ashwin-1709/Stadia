@@ -62,9 +62,9 @@ export default function AlertDialogSlide({open,setOpen}) {
 
       },
       prefill: {
-        name: "Yash Ratnani",
-        email: 'yashratnani6@gmail.com',
-        phone_number: '8767035529'
+        name: "Ashwin Pugalia",
+        email: 'abcd@gmail.com',
+        phone_number: '8888888888'
       }
     }
     const paymentObject = new window.Razorpay(options)
