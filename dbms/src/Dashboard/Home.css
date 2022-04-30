@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+html {
+    background-color: #363450 !important;
+}
+.paddedr{
+    margin-bottom:2rem;
+}
+.homepage{
+    /* background: url('../Resources/stadium-3.jpg'); */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #363450 !important;
+    height: fit-content !important;
+    text-align: center;
+    /* background: url(''); */
+    opacity: 1;
+    position: absolute;
+    width: 100%;
+    z-index: -1;   
+}
+html{
+    background: #363450 !important;
+}
+.ge{
+    padding-top: 10rem;
+}
+.ge-2{
+    padding-top: 1rem;
+}
+.stadium-list{
+    margin: auto !important;
+    /* text-align: center; */
+    width: 80vw;
+}
+.he{
+    z-index: 1;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    border: none;
+}
+.he-2{
+    z-index: 1;
+    text-decoration: none;
+    color: #1EB980!important;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    border: none;
+    font-size: 1rem;
+}
+/* .menu-items{
+    margin: auto !important;
+    text-align: center !important;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+} */
+.stadium-details{
+    color: gray;
+}
+.container-capacity{
+    margin-top: 1rem;
+}
+.header-hidden-modifications{
+    margin-top: 7rem !important;
+    transition: all 0.5s ease-out;
+}
+
+.pad {
+    margin: 10px;
+}

@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+.fpt {
+  font-family: 'Bebas Neue', cursive !important;
+  font-size: 20px !important;
+  font-stretch: expanded !important;
+}
+.fpt-small {
+    font-family: 'Bebas Neue', cursive !important;
+    font-size: 1vw !important;
+    text-align: center;
+  }
+  .fpt-small-2 {
+    font-family: 'Bebas Neue', cursive !important;
+    font-size: 1.3vw !important;
+    text-align: center;
+  }
+
+  .fpt-lg{
+    font-family: 'Bebas Neue', cursive !important;
+    font-size: 2vw !important;
+    padding-top:0.8rem;
+    text-align: center;
+  }
+  .fpt-lg-2{
+    font-family: 'Bebas Neue', cursive !important;
+    font-size: 1.2rem !important;
+    text-align: center;
+  }
+  .d-flex{
+      display: flex;
+      justify-content:space-between;
+      align-items: center;
+      width: 100%;
+  }
+  .msrt{
+      font-family: 'Montserrat',sans-serif;
+        font-size: 1rem;
+  }
+  .msrt-2{
+      background-color: #1EB980;
+      font-family: 'Open Sans', sans-serif;
+      font-size: 1.2rem;
+      font-stretch: condensed;
+      line-height: 90%;
+      font-weight: 800 !important;
+  }
+  .ffpr{
+      background-color: #33333D !important;
+  }
+  .as{
+  }
