@@ -2,7 +2,7 @@
 Cricket Match Booking Web Application made for DBMS Group Project.
 Stadia aims to create a stadium seat booking web application that facilitates users to book seats for upcoming cricket matches. There will be different types of seats subject to availability and price. Userscan view the details of the upcoming matches on the dashboard and
 can choose their required seats allowing them to pay using Real-Time
-Payment Gateway (like Paytm, GPay, Bank Account). Users can also
+Payment Gateway (Razorpay). Users can also
 choose to update/cancel their previous bookings subject to certain
 conditions. Users can also avail food services, merchandise through
 this website after booking their seats.
